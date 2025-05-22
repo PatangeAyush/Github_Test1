@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DapperAPi.Repositorys
-build_property.ProjectDir = D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPi.Repositorys\
+build_property.ProjectDir = D:\ayush\Dapper_Trial\Core_Api_Using_Dapper\DapperAPi.Repositorys\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

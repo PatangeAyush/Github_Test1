@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ayush\\Dapper Trial\\Core_Api_Using_Dapper\\DapperAPI.DTOs\\DapperAPI.DTOs.csproj": {}
+    "D:\\ayush\\Dapper_Trial\\Core_Api_Using_Dapper\\DapperAPI.DTOs\\DapperAPI.DTOs.csproj": {}
   },
   "projects": {
-    "D:\\ayush\\Dapper Trial\\Core_Api_Using_Dapper\\DapperAPI.DTOs\\DapperAPI.DTOs.csproj": {
+    "D:\\ayush\\Dapper_Trial\\Core_Api_Using_Dapper\\DapperAPI.DTOs\\DapperAPI.DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ayush\\Dapper Trial\\Core_Api_Using_Dapper\\DapperAPI.DTOs\\DapperAPI.DTOs.csproj",
+        "projectUniqueName": "D:\\ayush\\Dapper_Trial\\Core_Api_Using_Dapper\\DapperAPI.DTOs\\DapperAPI.DTOs.csproj",
         "projectName": "DapperAPI.DTOs",
-        "projectPath": "D:\\ayush\\Dapper Trial\\Core_Api_Using_Dapper\\DapperAPI.DTOs\\DapperAPI.DTOs.csproj",
+        "projectPath": "D:\\ayush\\Dapper_Trial\\Core_Api_Using_Dapper\\DapperAPI.DTOs\\DapperAPI.DTOs.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\ayush\\Dapper Trial\\Core_Api_Using_Dapper\\DapperAPI.DTOs\\obj\\",
+        "outputPath": "D:\\ayush\\Dapper_Trial\\Core_Api_Using_Dapper\\DapperAPI.DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

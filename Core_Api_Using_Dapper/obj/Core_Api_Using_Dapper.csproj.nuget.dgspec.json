@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ayush\\Dapper Trial\\Core_Api_Using_Dapper\\Core_Api_Using_Dapper\\Core_Api_Using_Dapper.csproj": {}
+    "D:\\ayush\\Dapper_Trial\\Core_Api_Using_Dapper\\Core_Api_Using_Dapper\\Core_Api_Using_Dapper.csproj": {}
   },
   "projects": {
-    "D:\\ayush\\Dapper Trial\\Core_Api_Using_Dapper\\Core_Api_Using_Dapper\\Core_Api_Using_Dapper.csproj": {
+    "D:\\ayush\\Dapper_Trial\\Core_Api_Using_Dapper\\Core_Api_Using_Dapper\\Core_Api_Using_Dapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ayush\\Dapper Trial\\Core_Api_Using_Dapper\\Core_Api_Using_Dapper\\Core_Api_Using_Dapper.csproj",
+        "projectUniqueName": "D:\\ayush\\Dapper_Trial\\Core_Api_Using_Dapper\\Core_Api_Using_Dapper\\Core_Api_Using_Dapper.csproj",
         "projectName": "Core_Api_Using_Dapper",
-        "projectPath": "D:\\ayush\\Dapper Trial\\Core_Api_Using_Dapper\\Core_Api_Using_Dapper\\Core_Api_Using_Dapper.csproj",
+        "projectPath": "D:\\ayush\\Dapper_Trial\\Core_Api_Using_Dapper\\Core_Api_Using_Dapper\\Core_Api_Using_Dapper.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\ayush\\Dapper Trial\\Core_Api_Using_Dapper\\Core_Api_Using_Dapper\\obj\\",
+        "outputPath": "D:\\ayush\\Dapper_Trial\\Core_Api_Using_Dapper\\Core_Api_Using_Dapper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ayush\\Dapper Trial\\Core_Api_Using_Dapper\\DapperAPi.Repositorys\\DapperAPi.Repositorys.csproj": {
-                "projectPath": "D:\\ayush\\Dapper Trial\\Core_Api_Using_Dapper\\DapperAPi.Repositorys\\DapperAPi.Repositorys.csproj"
+              "D:\\ayush\\Dapper_Trial\\Core_Api_Using_Dapper\\DapperAPi.Repositorys\\DapperAPi.Repositorys.csproj": {
+                "projectPath": "D:\\ayush\\Dapper_Trial\\Core_Api_Using_Dapper\\DapperAPi.Repositorys\\DapperAPi.Repositorys.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "D:\\ayush\\Dapper Trial\\Core_Api_Using_Dapper\\DapperAPI.DTOs\\DapperAPI.DTOs.csproj": {
+    "D:\\ayush\\Dapper_Trial\\Core_Api_Using_Dapper\\DapperAPI.DTOs\\DapperAPI.DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ayush\\Dapper Trial\\Core_Api_Using_Dapper\\DapperAPI.DTOs\\DapperAPI.DTOs.csproj",
+        "projectUniqueName": "D:\\ayush\\Dapper_Trial\\Core_Api_Using_Dapper\\DapperAPI.DTOs\\DapperAPI.DTOs.csproj",
         "projectName": "DapperAPI.DTOs",
-        "projectPath": "D:\\ayush\\Dapper Trial\\Core_Api_Using_Dapper\\DapperAPI.DTOs\\DapperAPI.DTOs.csproj",
+        "projectPath": "D:\\ayush\\Dapper_Trial\\Core_Api_Using_Dapper\\DapperAPI.DTOs\\DapperAPI.DTOs.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\ayush\\Dapper Trial\\Core_Api_Using_Dapper\\DapperAPI.DTOs\\obj\\",
+        "outputPath": "D:\\ayush\\Dapper_Trial\\Core_Api_Using_Dapper\\DapperAPI.DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -151,14 +151,14 @@
         }
       }
     },
-    "D:\\ayush\\Dapper Trial\\Core_Api_Using_Dapper\\DapperAPi.Repositorys\\DapperAPi.Repositorys.csproj": {
+    "D:\\ayush\\Dapper_Trial\\Core_Api_Using_Dapper\\DapperAPi.Repositorys\\DapperAPi.Repositorys.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ayush\\Dapper Trial\\Core_Api_Using_Dapper\\DapperAPi.Repositorys\\DapperAPi.Repositorys.csproj",
+        "projectUniqueName": "D:\\ayush\\Dapper_Trial\\Core_Api_Using_Dapper\\DapperAPi.Repositorys\\DapperAPi.Repositorys.csproj",
         "projectName": "DapperAPi.Repositorys",
-        "projectPath": "D:\\ayush\\Dapper Trial\\Core_Api_Using_Dapper\\DapperAPi.Repositorys\\DapperAPi.Repositorys.csproj",
+        "projectPath": "D:\\ayush\\Dapper_Trial\\Core_Api_Using_Dapper\\DapperAPi.Repositorys\\DapperAPi.Repositorys.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\ayush\\Dapper Trial\\Core_Api_Using_Dapper\\DapperAPi.Repositorys\\obj\\",
+        "outputPath": "D:\\ayush\\Dapper_Trial\\Core_Api_Using_Dapper\\DapperAPi.Repositorys\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -180,8 +180,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ayush\\Dapper Trial\\Core_Api_Using_Dapper\\DapperAPI.DTOs\\DapperAPI.DTOs.csproj": {
-                "projectPath": "D:\\ayush\\Dapper Trial\\Core_Api_Using_Dapper\\DapperAPI.DTOs\\DapperAPI.DTOs.csproj"
+              "D:\\ayush\\Dapper_Trial\\Core_Api_Using_Dapper\\DapperAPI.DTOs\\DapperAPI.DTOs.csproj": {
+                "projectPath": "D:\\ayush\\Dapper_Trial\\Core_Api_Using_Dapper\\DapperAPI.DTOs\\DapperAPI.DTOs.csproj"
               }
             }
           }
