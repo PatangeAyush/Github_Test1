@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DapperAPI.DTOs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+685128e3fc94a7438101a53ed3745088cc3d2230")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2ee9a464ec0603e347715f5836bbd3609b54930")]
 [assembly: System.Reflection.AssemblyProductAttribute("DapperAPI.DTOs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DapperAPI.DTOs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
