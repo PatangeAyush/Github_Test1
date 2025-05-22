@@ -14,9 +14,5 @@ namespace DapperAPI.DTOs
         public string? Product_Code { get; set; }
         public int MasterCategory_ID { get; set; }
         public string? Category_Name { get; set; }
-
-        public string? ayush { get; set; }
-        public string? aditi { get; set; }
-
     }
 }
