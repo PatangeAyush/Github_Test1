@@ -20,7 +20,7 @@ git add .
 git commit -m "Initial commit"
 
 :: Step 5: Add remote (Replace the below link with your actual GitHub repo URL)
-git remote add origin https://github.com/YourUsername/YourRepoName.git
+git remote add origin https://github.com/PatangeAyush/GithubTrial.git
 
 :: Step 6: Rename to main
 git branch -M main
