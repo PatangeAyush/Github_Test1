@@ -1,0 +1,15 @@
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPi.Repositorys\bin\Debug\net8.0\DapperAPi.Repositorys.deps.json
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPi.Repositorys\bin\Debug\net8.0\DapperAPi.Repositorys.dll
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPi.Repositorys\bin\Debug\net8.0\DapperAPi.Repositorys.pdb
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPi.Repositorys\bin\Debug\net8.0\DapperAPI.DTOs.dll
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPi.Repositorys\bin\Debug\net8.0\DapperAPI.DTOs.pdb
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPi.Repositorys\obj\Debug\net8.0\DapperAPi.Repositorys.csproj.AssemblyReference.cache
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPi.Repositorys\obj\Debug\net8.0\DapperAPi.Repositorys.GeneratedMSBuildEditorConfig.editorconfig
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPi.Repositorys\obj\Debug\net8.0\DapperAPi.Repositorys.AssemblyInfoInputs.cache
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPi.Repositorys\obj\Debug\net8.0\DapperAPi.Repositorys.AssemblyInfo.cs
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPi.Repositorys\obj\Debug\net8.0\DapperAPi.Repositorys.csproj.CoreCompileInputs.cache
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPi.Repositorys\obj\Debug\net8.0\DapperAP.80D97662.Up2Date
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPi.Repositorys\obj\Debug\net8.0\DapperAPi.Repositorys.dll
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPi.Repositorys\obj\Debug\net8.0\refint\DapperAPi.Repositorys.dll
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPi.Repositorys\obj\Debug\net8.0\DapperAPi.Repositorys.pdb
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPi.Repositorys\obj\Debug\net8.0\ref\DapperAPi.Repositorys.dll

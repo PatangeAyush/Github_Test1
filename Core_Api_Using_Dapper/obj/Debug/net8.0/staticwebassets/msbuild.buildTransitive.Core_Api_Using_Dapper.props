@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Core_Api_Using_Dapper.props" />
+</Project>

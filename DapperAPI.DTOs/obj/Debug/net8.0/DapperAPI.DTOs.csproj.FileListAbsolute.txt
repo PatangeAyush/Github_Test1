@@ -1,0 +1,11 @@
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPI.DTOs\bin\Debug\net8.0\DapperAPI.DTOs.deps.json
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPI.DTOs\bin\Debug\net8.0\DapperAPI.DTOs.dll
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPI.DTOs\bin\Debug\net8.0\DapperAPI.DTOs.pdb
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPI.DTOs\obj\Debug\net8.0\DapperAPI.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPI.DTOs\obj\Debug\net8.0\DapperAPI.DTOs.AssemblyInfoInputs.cache
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPI.DTOs\obj\Debug\net8.0\DapperAPI.DTOs.AssemblyInfo.cs
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPI.DTOs\obj\Debug\net8.0\DapperAPI.DTOs.csproj.CoreCompileInputs.cache
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPI.DTOs\obj\Debug\net8.0\DapperAPI.DTOs.dll
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPI.DTOs\obj\Debug\net8.0\refint\DapperAPI.DTOs.dll
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPI.DTOs\obj\Debug\net8.0\DapperAPI.DTOs.pdb
+D:\ayush\Dapper Trial\Core_Api_Using_Dapper\DapperAPI.DTOs\obj\Debug\net8.0\ref\DapperAPI.DTOs.dll
